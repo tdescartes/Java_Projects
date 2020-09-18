@@ -1,2 +1,2 @@
-# Java_Projects
-Java Projects
+# CMPT220_Labs
+CMPT220 Labs
